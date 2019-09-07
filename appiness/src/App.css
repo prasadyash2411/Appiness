@@ -1,0 +1,80 @@
+.FeedbackForm{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+
+*{
+  font-family: 'Nunito' ,sans-serif;
+}
+
+
+.head{
+  font-size: 50px !important;
+}
+
+.parallex{
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.loginBtn{
+  width: 400px;
+  height:50px;
+  background-color: #ea4335 !important;
+  color: white !important;
+  border-radius: 50px !important;
+  font-size: 16px !important;
+  display: block;
+  /* margin-bottom: 20px !important; */
+}
+
+.loginBtn:hover{
+  font-size: 12px !important;
+}
+
+
+.dialogTitle{
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.spacer{
+  margin:100px;
+}
+
+.loginInput{
+  margin:20px;
+  width: 300px;
+}
+
+.loginButton{
+  background-color: #ea4335 !important;
+  color: white !important;
+  border-radius: 50px !important;
+  width: 100px;
+  margin-top: 50px !important;
+  margin-right:30px !important;
+}
+
+.login{
+  border: none !important;
+  color: white !important;
+  margin-top:-5px !important;
+}
+
+.login_route{
+  margin-top: 100px;
+}
+
+.login_route_header{
+  padding: 20px;
+  padding-bottom: 80px;
+}
+
+.margin{
+  margin-bottom: 20px !important;
+}
